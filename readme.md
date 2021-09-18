@@ -7,3 +7,8 @@ I created a Responsive Navbar,  Image Carousel, Three Column Section,  Two Colum
 
 The section Services has a clickable link Read More, so if you click on it, you will be transfered to the particular page where is more content about it. 
 It will open on a new tab. 
+
+Site links:
+
+https://tanjasav.github.io/Bootstrap/
+https://tanjasav.github.io/Bootstrap/services.html
